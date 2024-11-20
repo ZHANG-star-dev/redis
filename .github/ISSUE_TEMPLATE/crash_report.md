@@ -1,25 +1,25 @@
 ---
-name: Crash report
-about: Submit a crash report
-title: '[CRASH] <short description>'
-labels: ''
+姓名:碰撞报告
+关于:提交一份事故报告
+ title: ' [ 撞击 ]  < 短的 描述 > '
+labels: 'problem'
 assignees: ''
 
 ---
 
-Notice!
-- If a Redis module was involved, please open an issue in the module's repo instead!
-- If you're using docker on Apple M1, please make sure the image you're using was compiled for ARM!
+注意!
+    - 如果涉及雷迪斯模块,请在模块的回购中打开一个问题!
+    - 如果您使用的是苹果M1的码头,请确保您使用的图像是编译为ARM!
 
 
-**Crash report**
+** 崩溃报告 **
 
-Paste the complete crash log between the quotes below. Please include a few lines from the log preceding the crash report to provide some context.
+在下面的引号之间粘贴完整的崩溃日志。请在崩溃报告之前从日志中加入一些行,以提供一些上下文。
 
 ```
 ```
 
-**Additional information**
+** 补充资料 **
 
-1. OS distribution and version
-2. Steps to reproduce (if any)
+    1. O的分发和版本
+  2. 复制步骤(如有)
